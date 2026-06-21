@@ -5,6 +5,8 @@
 ![Status](https://img.shields.io/badge/status-MVP-blue)
 ![License](https://img.shields.io/badge/license-GPL--3.0-lightgrey)
 
+Language: English | [简体中文](README.zh-Hans.md)
+
 E1547 Native iOS is a Swift-native derivative of E1547, rebuilt as an iOS-first client for browsing e621/e926 with a focused native interface.
 
 This repository intentionally keeps the native iOS application separate from the original multi-platform Flutter project. The app starts from an iOS 26 MVP and leans into native SwiftUI, system media handling, Keychain credentials, Photo Library saving, and iOS interaction patterns.
